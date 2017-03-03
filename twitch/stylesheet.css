@@ -1,0 +1,86 @@
+/*body{
+  background-image: url('https://comparegamehosting.com/wp-content/uploads/2015/10/how-to-make-money-on-twitch.jpg')
+}*/
+
+
+.StreamContent {
+  color: red;
+  font-size: 24px;
+  width: 800px;
+  height: 100px;
+  background-color:black;
+}
+#TwitchViewer{
+  
+  width: 800px;
+  height: 1200px;
+  color:purple;
+  
+  margin: 1vw auto 1vw auto;
+  
+  
+}
+#Header{
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  font-family: Georgia;
+  position: relative;
+  text-align: center;
+  padding-top: 1vw;
+  }
+a{
+
+}
+#List{
+  list-style-type: none;
+  text-align: center;
+  
+}
+ul {
+  font-size: 20px;
+  list-style-type: none;
+  display: inline;
+  padding: 0px 10px 10px 10px;
+  
+}
+.ChannelName{
+  padding: 10px;
+  border: solid #6441a5 20px;
+  background-color: #c67ef7;
+  
+  
+}
+img{
+  width:100px;
+  height:100px;
+ 
+}
+.logo{
+  width:800px;
+  height:264px;
+  padding: 20px;
+}
+body{
+  font:Helvetica, Arial;
+}
+.displayName{
+  font-size: 32px;
+  font-family: Helvetica nue, Helvetica, Arial;
+  color: #6441a5;
+  text-decoration: bold;
+  
+}
+.offlineFont{
+  font-size: 32px;
+  color: red;
+  
+}
+.onlineFont{
+  font-size: 32px;
+  color: green;
+  
+}
+.channelStatus{
+  font-size: 32px;
+}
